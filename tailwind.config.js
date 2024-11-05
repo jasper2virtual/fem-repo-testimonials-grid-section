@@ -25,7 +25,10 @@ export default {
           lightGray:'hsl(0, 0%, 81%)',
           lightGrayishBlue:'hsl(210, 46%, 95%)'
         }
-      }
+      },
+      backgroundImage: {
+        'quotation-pattern':'url("/src/assets/images/bg-pattern-quotation.svg")'
+      },
     },
   },
   plugins: [],

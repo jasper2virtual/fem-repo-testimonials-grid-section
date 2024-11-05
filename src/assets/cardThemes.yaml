@@ -1,5 +1,5 @@
 violet:
-  card: text-primary-white bg-primary-moderateViolet
+  card: text-primary-white bg-primary-moderateViolet bg-quotation-pattern bg-no-repeat bg-[right_15%_top]
   avator: border-primary-white/50
 gray:
   card: text-primary-white bg-primary-veryDarkGrayishBlue
