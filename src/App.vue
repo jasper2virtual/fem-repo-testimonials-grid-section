@@ -1,5 +1,5 @@
 <template>
-  <div class="flex flex-col min-h-screen min-w-[320px] bg-neutral-lightGrayishBlue">
+  <div class="flex flex-col min-h-screen min-w-[320px] bg-neutral-lightGrayishBlue p-4">
     <main class="grow grid place-content-center">
       <div class="container mx-auto flex flex-col gap-6
       tablet:grid tablet:grid-cols-[repeat(2,255px)] tablet:grid-rows-4
